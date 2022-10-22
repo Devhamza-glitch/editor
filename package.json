@@ -1,0 +1,28 @@
+{
+  "name": "slideapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@tiptap/react": "^2.0.0-beta.199",
+    "@tiptap/starter-kit": "^2.0.0-beta.199",
+    "gray-matter": "^4.0.3",
+    "next": "12.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.4.0",
+    "styled-bootstrap-grid": "^3.1.2",
+    "styled-components": "^5.3.5",
+    "tiptap-editor": "^1.4.6"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^2.0.7",
+    "eslint": "8.17.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
